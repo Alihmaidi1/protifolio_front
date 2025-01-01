@@ -3,7 +3,7 @@ var typed = new Typed(".typing", {
   strings: [
     "",
     "Back End web Developer",
-    "Laravel Devloper",
+    "Asp.Net Developer",
     "Make High Performance WebSite",
     "DevOps",
   ],
